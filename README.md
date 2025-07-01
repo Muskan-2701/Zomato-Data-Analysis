@@ -11,6 +11,7 @@ This project focuses on exploring and analyzing the Zomato restaurant dataset to
 <br>
 <br>
 📊 Technologies & Tools Used
+<br>
 1) Python
 2) Pandas, NumPy – Data manipulation and analysis
 3) Matplotlib, Seaborn, Plotly – Data visualization
@@ -19,6 +20,7 @@ This project focuses on exploring and analyzing the Zomato restaurant dataset to
 <br>
 <br>
 🧠 Future Work
+<br>
 1) Add ML models for rating prediction
 2) Build an interactive dashboard using Streamlit or Power BI
 3) Incorporate time-series analysis (if temporal data is added)
