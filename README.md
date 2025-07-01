@@ -12,18 +12,23 @@ This project focuses on exploring and analyzing the Zomato restaurant dataset to
 <br>
 📊 Technologies & Tools Used
 <br>
-1) Python
-2) Pandas, NumPy – Data manipulation and analysis
-3) Matplotlib, Seaborn, Plotly – Data visualization
-4) Jupyter Notebook – Exploratory analysis
-5) CSV Dataset – https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
+Python
+<br>
+Pandas, NumPy – Data manipulation and analysis
+<br>
+Matplotlib, Seaborn, Plotly – Data visualization
+<br>
+Jupyter Notebook – Exploratory analysis
+<br>
+CSV Dataset – https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
 <br>
 <br>
 🧠 Future Work
+<br>Add ML models for rating prediction
 <br>
-1) Add ML models for rating prediction
-2) Build an interactive dashboard using Streamlit or Power BI
-3) Incorporate time-series analysis (if temporal data is added)
+Build an interactive dashboard using Streamlit or Power BI
+<br>
+Incorporate time-series analysis (if temporal data is added)
 <br>
 <br>
 📬 Contact
