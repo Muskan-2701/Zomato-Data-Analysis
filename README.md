@@ -11,11 +11,11 @@ This project focuses on exploring and analyzing the Zomato restaurant dataset to
 <br>
 <br>
 📊 Technologies & Tools Used
-Python
-Pandas, NumPy – Data manipulation and analysis
-Matplotlib, Seaborn, Plotly – Data visualization
-Jupyter Notebook – Exploratory analysis
-CSV Dataset – https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
+1) Python
+2) Pandas, NumPy – Data manipulation and analysis
+3) Matplotlib, Seaborn, Plotly – Data visualization
+4) Jupyter Notebook – Exploratory analysis
+5) CSV Dataset – https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
 <br>
 <br>
 🧠 Future Work
@@ -25,4 +25,5 @@ CSV Dataset – https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
 <br>
 <br>
 📬 Contact
+<br>
 For feedback or questions, reach out via LinkedIn or open an issue in the repo.
